@@ -1,4 +1,4 @@
-# AWS-S3StaticWebsite
+# AWS S3 Static Website Hosting Tutorial
 Welcome! If you're looking to get a static website up and running with minimal fuss, you're in the right place. This guide is designed for anyone, especially beginners, to host their website on Amazon Web Services (AWS) S3 with ease.
 
 ## Description 
@@ -18,9 +18,9 @@ Your static website files ready to upload.
 
 
 ## Getting Started:
-Set Up Your AWS Account: If you haven't already, sign up for AWS.
-Create an S3 Bucket: We'll guide you through creating and configuring your bucket for web hosting.
-Upload Your Files: Get your HTML, CSS, and JavaScript files onto AWS S3.
-Make It Public: Adjust the bucket settings to serve your website to the world.
-Visit Your New Website: Access your site through the unique S3 endpoint.
+- Set Up Your AWS Account: If you haven't already, sign up for AWS.
+- Create an S3 Bucket: We'll guide you through creating and configuring your bucket for web hosting.
+- Upload Your Files: Get your HTML, CSS, and JavaScript files onto AWS S3.
+- Make It Public: Adjust the bucket settings to serve your website to the world.
+- Visit Your New Website: Access your site through the unique S3 endpoint.
 
